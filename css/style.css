@@ -1,0 +1,23 @@
+html {
+	scroll-behavior: smooth;
+}
+body {
+	background-color: white;
+	font-family: 'Oxygen', sans-serif;
+	padding: 5px;
+}
+.box {
+	padding: 10px;
+	border: none;
+	margin: 10px;
+	background-color: #f6b319;
+}
+.head {
+	padding: 10px;
+}
+.navbar {
+ background-color: #f6b319;
+}
+.back {
+	margin-bottom: -1px;
+}
